@@ -18,7 +18,7 @@ class StandaloneLuckyDraw {
             'poster': null
         };
         this.isDrawing = false;
-        this.winnersCount = 5; // Fixed to 5 winners
+        this.winnersCount = 3; // Change to 5 for 5 winners
         this.init();
     }
 

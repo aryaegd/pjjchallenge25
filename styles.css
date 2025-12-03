@@ -430,7 +430,7 @@ body {
 
 .winners-container {
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(3, 1fr); /* Change to repeat(5, 1fr) for 5 winners */
     gap: 15px;
     margin: 30px 0;
 }
